@@ -1,4 +1,5 @@
 # Project
+we Built a Coin Flip” betting game in the Solidity language using the Harmony testnet and Harmony VRF (Verifiable Random Function)
 # Coin-Flip Overview
 - Coin Flip Game is to be a smart contract using **Harmony VRF** function
 - Allows a user to place a bet on a particular outcome of a coin flip using a function that accepts amount = integer and bet = 0 or 1 representing heads or tails
